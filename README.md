@@ -24,12 +24,12 @@ The dashboard provides key business insights related to **orders, revenue, custo
 ---
 
 ## Dashboard Features
-- 📈 Total Orders & Revenue KPIs
-- 🏆 Top Restaurants by Orders & Revenue
-- 🍕 Category-wise Sales Analysis
-- 📅 Time-based Trends (Daily / Monthly)
-- 📍 Customer & Location Insights
-- ⚡ Interactive Filters and Slicers
+- Total Orders & Revenue KPIs
+- Top Restaurants by Orders & Revenue
+- Category-wise Sales Analysis
+- Time-based Trends (Daily / Monthly)
+- Customer & Location Insights
+- Interactive Filters and Slicers
 
 ---
 
